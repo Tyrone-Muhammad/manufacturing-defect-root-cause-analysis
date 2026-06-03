@@ -1,0 +1,16 @@
+Model,Description,Defects,Percentage
+Model1,solderbridge,10,30.0
+Model1,missingcomp,11,14.0
+Model1,liftedcomp,12,11.5
+Model1,damagedcomp,13,8.0
+Model1,excessivesolder,14,5.0
+Model2,solderbridge,10,6.67
+Model2,missingcomp,11,3.11
+Model2,liftedcomp,12,2.56
+Model2,damagedcomp,13,1.78
+Model2,excessivesolder,14,1.11
+Model3,solderbridge,10,7.23
+Model3,missingcomp,11,3.37
+Model3,liftedcomp,12,2.77
+Model3,damagedcomp,13,1.93
+Model3,excessivesolder,14,1.2
